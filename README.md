@@ -29,7 +29,7 @@ Follows tie-breaking rules specified for the Distance Vector algorithm.
 **************************************************************************************************************************************************
 
 
-(1) In this assignment, socket programming is not used for directly transmitting messages over the network. Instead, it assumes the existence of virtual routers and the circuits connecting them. The task involves calculating and updating the routing tables of each router.
+(1) In this project, socket programming is not used for directly transmitting messages over the network. Instead, it assumes the existence of virtual routers and the circuits connecting them. The task involves calculating and updating the routing tables of each router.
 
 (2) The programs linkstate and distvec are executed as follows, each taking three file names as input arguments:
 ```
